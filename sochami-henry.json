@@ -37,10 +37,44 @@
       }
     },
     "transcript": {
-      "language": "es"
+      "language": "es",
+      "interview": [
+        {
+          "who": "David Boder",
+          "start": "1.087",
+          "u": "[In English] This is Spool 43 taken from Mr. Henry Sochami, 38 years old, tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz. He will speak Spanish, he can speak German but it's rather . . . slow, and we prefer to use the language he can speak most fluently."
+        },
+        {
+          "who": "David Boder",
+          "start": "36.162",
+          "u": "[In Spanish] Ehh . . . Señor Sochami, eh . . . dígame dónde nació Ud. y de qué nacionalidad es Ud."
+        }
+        {
+          "who": "Henry Sochami",
+          "start": "44.492",
+          "u": "Es nacionalidad griega."
+        }
+      ]
     },
     "translation": {
-      "language": "en"
+      "language": "en",
+      "interview": [
+        {
+          "who": "David Boder",
+          "start": "1.087",
+          "u": " [In English] This is Spool 43 taken from Mr. Henry Sochami, 38 years old, tattoo number 109752 triangle, meaning Jewish, a tattoo of the camp of Auschwitz. He will speak Spanish, he can speak German but it's rather . . . slow, and we prefer to use the language he can speak most fluently."
+        },
+        {
+          "who": "David Boder",
+          "start": "36.162",
+          "u": "[In Spanish] Er . . . Mr. Sochami, tell me where you were born, and what your nationality is."
+        },
+        {
+          "who": "Henry Sochami",
+          "start": "44.492",
+          "u": "I am Greek."
+        }
+      ]
     }
   }
 
